@@ -32,6 +32,3 @@ Author
 Krithiga 
 Project Status
 Completed as part of a data analytics training capstone project. 
-Krithiga 
-Project Status
-Completed as part of a data analytics training capstone project.
